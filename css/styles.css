@@ -1,0 +1,33 @@
+.jumbotron{
+  background-color: #f7bf8f;
+  height: 200px;
+  margin-bottom:auto;
+  text-align: center;
+  font-size: 350%;
+}
+.bodyBg{
+  background-color: #F0F0F0;
+}
+.side{
+background-color:#336633;;
+padding-left: 5%;
+padding-bottom: 25%;
+  padding-top: 5%;
+  margin-top: 2%;
+  margin-left:0%;
+}
+.side h3{
+  color:#f7bf8f;
+}
+.side p{
+  color: white;
+}
+.main h4{
+  font-size: 40px;
+  font-weight: bolder;
+}
+.main{
+  margin-top: 10%;
+  padding-left: 5%;
+  font-size: 20px;
+}
